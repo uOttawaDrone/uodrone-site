@@ -1,11 +1,11 @@
 {
   "name": "gatsby-london-after-midnight",
   "private": true,
-  "description": "uoDrone Website",
+  "description": "uoDrone",
   "version": "1.0.2",
   "author": "Faizaan Chishtie",
   "bugs": {
-    "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
+    "url": "https://github.com/uOttawaDrone/uodrone-site/issues"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
@@ -58,7 +58,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaporwavy/gatsby-london-after-midnight.git"
+    "url": "git+https://github.com/uOttawaDrone/uodrone-site.git"
   },
   "scripts": {
     "build": "gatsby build",

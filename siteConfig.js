@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'uoDrone Website',
+  name: 'uoDrone',
   shortName: 'uoDrone',
-  description: 'uoDrone Website',
+  description: 'The uoDrone club\'s website!',
   url: 'https://uodrone.com', // Domain of your site without prefix!
   prefix: '/',
   author: 'Faizaan Chishtie',
